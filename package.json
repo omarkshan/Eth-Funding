@@ -1,0 +1,30 @@
+{
+  "name": "eth-funding",
+  "version": "1.0.0",
+  "description": "A crowdfunding platform based on the Ethereum framework",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarkshan/Eth-Funding.git"
+  },
+  "keywords": [
+    "Ether",
+    "Ethereum",
+    "Crowdfunding"
+  ],
+  "author": "omarkshan",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/omarkshan/Eth-Funding/issues"
+  },
+  "homepage": "https://github.com/omarkshan/Eth-Funding#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
